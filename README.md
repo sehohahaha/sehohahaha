@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<a href="[http://www.instagram.com/sehohahaha/]" target="_blank"><img src="https://img.shields.io/badge/[Sehohahaha]-[#E4405F]?style=flat-square&logo=[instagram]&logoColor=white"/></a>
+<a href="http://www.instagram.com/sehohahaha/" target="_blank"><img src="https://img.shields.io/badge/Sehohahaha-#E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <!---
 sehohahaha/sehohahaha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
